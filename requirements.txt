@@ -1,0 +1,11 @@
+streamlit
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+Pillow
+opencv-python-headless  # Use headless version for cloud
+streamlit-option-menu
